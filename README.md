@@ -2,8 +2,8 @@
 
 The biggest English to Turkish dictionary for Kindle.
 
-- **948,935** English headwords
-- **2,241,862** Turkish translations
+- **948,931** English headwords
+- **2,241,858** Turkish translations
 - **56,215** extra word forms (plurals, verb tenses and so on), so looking up an inflected word finds its entry
 
 It works as a real Kindle lookup dictionary: press and hold a word in any English book and the Turkish translations appear in the popup. Tested and working on Kindle Paperwhite 12th generation, firmware 5.19.4.
